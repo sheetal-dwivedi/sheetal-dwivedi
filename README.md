@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @sheetal-dwivedi
-- 🌱 I’m currently learning Devops and programming.
+- 👋 Hi, I’m @sheetal-dwivedi.
+- 👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
